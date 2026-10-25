@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "O2My/b5gnpU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zanko\\OneDrive - Univerza v Mariboru\\Dokumenti\\RIGIS\\Test\\Test\\Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zanko\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\zanko\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512",
+    "C:\\Users\\zanko\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.2-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.24.2-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}
