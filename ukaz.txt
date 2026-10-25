@@ -1,2 +1,0 @@
-
-docker run -d --name test-api -p 8081:8080 zancinabalanci/test-api:latest
